@@ -1,0 +1,85 @@
+.tes1{
+	width: 200px;
+	height: 100px;
+	background-color: orange;
+	color: white;
+}
+
+#tes1{
+	width: 100%;
+	height: 70px;
+	background-color: green;
+}
+.left-section{
+	background-color: red;
+	width: 13%;
+	overflow: hidden;
+	float: left;
+}
+.right-section{
+	background-color: blue;
+	width: 87%;
+	overflow: hidden;
+	float: right;
+}
+.clearfix{
+	clear: both;
+}
+.gambar-home{
+	width: 100px;
+	height: 80px;
+	float:left;
+}
+.header-title{
+	float: left;
+}
+.content-text{
+	float: left;
+}
+.button-close{
+	margin-top: 30px;
+	padding: 10px;
+	padding-right: 30px;
+	padding-left: 30px;
+	background: #1abc9c;
+	color: white;
+	text-decoration: none;
+	font-family: 'arial';
+}
+.button-close:hover{
+	color: #fff;
+	background: none;
+	border: 1px solid #fff;
+
+}
+.button-close:focus{
+	color: #fff;
+	background: none;
+	border: 1px solid #fff;
+
+}
+.body-button-close{
+	margin-top: 50px;
+	margin-bottom: 50px;
+
+}
+.info{
+	background-color: #3498db;
+	width: 80%;
+	overflow: hidden; 
+	color: #fff;
+	border: 2px solid #2a2a2a;
+	margin: 10px;
+	padding: 10px; 
+	padding-left: 30px;
+}
+.text-miring{
+	font-style: italic;
+
+}
+.text-tebal{
+	font-weight: bold;
+}
+.text-garisbawah{
+	text-decoration: underline;
+}
